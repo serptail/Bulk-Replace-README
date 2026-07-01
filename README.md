@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://ko-fi.com/D1D11CZNM1">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
-  </a>
-</p>
 
 <h1 style="font-size:64px;">NOTE: THIS TOOL ONLY WORKS FOR THIS CASE ONLY, YOU WOULD NEED TO CHANGE THE CODE TO SERVE YOUR CASE.</h1>
 
@@ -161,11 +156,6 @@ If you find this tool useful, consider supporting me by:
 - Sharing the tool with others
 - Providing feedback and suggestions
 - Follow me for more :)
-
-<a href="https://ko-fi.com/D1D11CZNM1">
-  <img src="https://github.com/user-attachments/assets/ba118768-9054-416f-b7b2-adaa69a53434" alt="Support me on Ko-fi" width="200" />
-</a>
-<center>
     
 ---
 For any issues or feature requests, please open an issue on GitHub. Happy coding!
